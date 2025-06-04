@@ -9,7 +9,7 @@ Web application vulnerabilities (OWASP Top 10)
 
 Manual and automated testing
 
-Tools like Burp Suite, Nmap, Sublist3r, ffuf, and others
+Tools like Burp Suite, Nmap, Sublist3r, ffuf, and others.
 
 Responsible disclosure practices and clear communication with security teams
 
