@@ -11,7 +11,7 @@ Manual and automated testing
 
 Tools like Burp Suite, Nmap, Sublist3r, ffuf, and others
 
-Responsible disclosure practices and clear communication with security teams
+Responsible disclosure practices and clear communication with security teamss
 
 🧠 Constantly learning, with a focus on ethics, responsibility, and the ongoing development of technical skills.
 
